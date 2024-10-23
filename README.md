@@ -20,7 +20,7 @@ E-Shop is a full-stack e-commerce platform built with the MERN stack (MongoDB, E
 
 ### 1. Home Page
 This is the main landing page of the application, displaying featured products and categories.
-![Home Page](./path-to-image/home-page.png)
+![Home Page](https://asset.cloudinary.com/dqioxqal2/ec764dc885547f461db558546af6837c)
 
 ---
 
